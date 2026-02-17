@@ -1,5 +1,0 @@
-Timestamp,EventType,Details
-2026-01-08 17:02:02,Trip_Start,Detection started.
-2026-01-08 17:02:02,State,attentive
-2026-01-08 17:02:03,State,drowsy
-2026-01-08 17:02:05,Trip_End,System disengaged.

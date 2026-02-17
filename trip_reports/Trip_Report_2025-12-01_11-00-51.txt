@@ -1,0 +1,223 @@
+
+------------------------------
+     TRIP SAFETY REPORT
+------------------------------
+Total Drive Time: 3.86 minutes
+Final Driver Safety Score: 85/100
+
+--- Total Incidents Logged ---
+  - Yawn Warnings: 1
+  - Drowsy Warnings: 1
+
+Full event log saved to: D:\00_All_Projects\00_Active\01_Drowsiness\CustomKTinker\trip_safety_logs\Trip_Log_2025-12-01_11-00-51.csv
+------------------------------
+
+--- Full Event Log ---
+Timestamp,EventType,Details
+2025-12-01 11:00:59,Trip_Start,Detection started.
+2025-12-01 11:01:00,State,attentive
+2025-12-01 11:01:01,State,attentive
+2025-12-01 11:01:02,State,attentive
+2025-12-01 11:01:03,State,attentive
+2025-12-01 11:01:04,State,attentive
+2025-12-01 11:01:05,State,attentive
+2025-12-01 11:01:06,State,attentive
+2025-12-01 11:01:07,State,drowsy
+2025-12-01 11:01:08,State,attentive
+2025-12-01 11:01:09,State,attentive
+2025-12-01 11:01:11,State,attentive
+2025-12-01 11:01:12,State,attentive
+2025-12-01 11:01:13,State,attentive
+2025-12-01 11:01:14,State,attentive
+2025-12-01 11:01:15,State,attentive
+2025-12-01 11:01:16,State,attentive
+2025-12-01 11:01:17,State,attentive
+2025-12-01 11:01:18,State,attentive
+2025-12-01 11:01:19,State,attentive
+2025-12-01 11:01:20,State,yawn
+2025-12-01 11:01:21,State,attentive
+2025-12-01 11:01:22,State,attentive
+2025-12-01 11:01:23,State,attentive
+2025-12-01 11:01:24,State,attentive
+2025-12-01 11:01:25,State,attentive
+2025-12-01 11:01:27,State,attentive
+2025-12-01 11:01:28,State,attentive
+2025-12-01 11:01:29,State,attentive
+2025-12-01 11:01:30,State,drowsy
+2025-12-01 11:01:31,State,attentive
+2025-12-01 11:01:32,State,attentive
+2025-12-01 11:01:33,State,attentive
+2025-12-01 11:01:34,State,drowsy
+2025-12-01 11:01:35,State,drowsy
+2025-12-01 11:01:36,State,attentive
+2025-12-01 11:01:37,State,attentive
+2025-12-01 11:01:38,State,attentive
+2025-12-01 11:01:39,State,attentive
+2025-12-01 11:01:40,State,attentive
+2025-12-01 11:01:41,State,attentive
+2025-12-01 11:01:43,State,attentive
+2025-12-01 11:01:44,State,drowsy
+2025-12-01 11:01:45,State,attentive
+2025-12-01 11:01:46,State,attentive
+2025-12-01 11:01:47,State,attentive
+2025-12-01 11:01:48,State,attentive
+2025-12-01 11:01:49,State,drowsy
+2025-12-01 11:01:50,State,drowsy
+2025-12-01 11:01:51,State,attentive
+2025-12-01 11:01:52,State,attentive
+2025-12-01 11:01:53,State,attentive
+2025-12-01 11:01:54,State,attentive
+2025-12-01 11:01:55,State,attentive
+2025-12-01 11:01:56,State,drowsy
+2025-12-01 11:01:57,State,attentive
+2025-12-01 11:01:58,State,attentive
+2025-12-01 11:02:00,State,drowsy
+2025-12-01 11:02:01,State,drowsy
+2025-12-01 11:02:02,State,attentive
+2025-12-01 11:02:03,State,attentive
+2025-12-01 11:02:04,State,attentive
+2025-12-01 11:02:05,State,drowsy
+2025-12-01 11:02:06,State,attentive
+2025-12-01 11:02:07,State,attentive
+2025-12-01 11:02:08,State,attentive
+2025-12-01 11:02:09,State,drowsy
+2025-12-01 11:02:10,State,yawn
+2025-12-01 11:02:11,State,attentive
+2025-12-01 11:02:12,Yawn_Warning,5 yawns detected.
+2025-12-01 11:02:13,State,attentive
+2025-12-01 11:02:14,State,attentive
+2025-12-01 11:02:15,State,attentive
+2025-12-01 11:02:16,State,attentive
+2025-12-01 11:02:17,State,attentive
+2025-12-01 11:02:18,State,drowsy
+2025-12-01 11:02:19,State,drowsy
+2025-12-01 11:02:20,State,drowsy
+2025-12-01 11:02:21,State,drowsy
+2025-12-01 11:02:22,State,attentive
+2025-12-01 11:02:23,State,attentive
+2025-12-01 11:02:24,State,attentive
+2025-12-01 11:02:25,State,attentive
+2025-12-01 11:02:27,State,attentive
+2025-12-01 11:02:28,State,attentive
+2025-12-01 11:02:29,State,attentive
+2025-12-01 11:02:30,State,attentive
+2025-12-01 11:02:31,State,attentive
+2025-12-01 11:02:32,State,attentive
+2025-12-01 11:02:33,State,attentive
+2025-12-01 11:02:34,State,attentive
+2025-12-01 11:02:35,State,attentive
+2025-12-01 11:02:36,State,drowsy
+2025-12-01 11:02:37,State,attentive
+2025-12-01 11:02:38,State,drowsy
+2025-12-01 11:02:39,State,attentive
+2025-12-01 11:02:40,State,drowsy
+2025-12-01 11:02:41,State,drowsy
+2025-12-01 11:02:42,State,drowsy
+2025-12-01 11:02:43,State,drowsy
+2025-12-01 11:02:44,State,drowsy
+2025-12-01 11:02:46,State,drowsy
+2025-12-01 11:02:46,Drowsy_Warning,Drowsy for 6s.
+2025-12-01 11:02:47,State,drowsy
+2025-12-01 11:02:48,State,drowsy
+2025-12-01 11:02:49,State,drowsy
+2025-12-01 11:02:50,State,drowsy
+2025-12-01 11:02:51,State,drowsy
+2025-12-01 11:02:52,State,drowsy
+2025-12-01 11:02:53,State,drowsy
+2025-12-01 11:02:54,State,drowsy
+2025-12-01 11:02:55,State,drowsy
+2025-12-01 11:02:56,State,drowsy
+2025-12-01 11:02:57,State,drowsy
+2025-12-01 11:02:58,State,drowsy
+2025-12-01 11:02:59,State,drowsy
+2025-12-01 11:03:00,State,drowsy
+2025-12-01 11:03:01,State,drowsy
+2025-12-01 11:03:02,State,drowsy
+2025-12-01 11:03:03,State,drowsy
+2025-12-01 11:03:04,State,drowsy
+2025-12-01 11:03:06,State,drowsy
+2025-12-01 11:03:07,State,drowsy
+2025-12-01 11:03:08,State,drowsy
+2025-12-01 11:03:09,State,drowsy
+2025-12-01 11:03:10,State,drowsy
+2025-12-01 11:03:11,State,drowsy
+2025-12-01 11:03:12,State,drowsy
+2025-12-01 11:03:13,State,drowsy
+2025-12-01 11:03:14,State,drowsy
+2025-12-01 11:03:15,State,drowsy
+2025-12-01 11:03:16,State,drowsy
+2025-12-01 11:03:17,State,drowsy
+2025-12-01 11:03:18,State,drowsy
+2025-12-01 11:03:19,State,drowsy
+2025-12-01 11:03:30,WhatsApp_Event,single_send to +919353721728: ok=True reason=sent
+2025-12-01 11:03:30,WhatsApp_Event,auto-send attempted to +919353721728: ok=True reason=sent; active_until set
+2025-12-01 11:03:31,State,drowsy
+2025-12-01 11:03:32,State,drowsy
+2025-12-01 11:03:33,State,drowsy
+2025-12-01 11:03:34,State,drowsy
+2025-12-01 11:03:35,State,drowsy
+2025-12-01 11:03:36,State,drowsy
+2025-12-01 11:03:37,State,drowsy
+2025-12-01 11:03:38,State,drowsy
+2025-12-01 11:03:39,State,drowsy
+2025-12-01 11:03:40,State,drowsy
+2025-12-01 11:03:42,State,drowsy
+2025-12-01 11:03:43,State,drowsy
+2025-12-01 11:03:44,State,drowsy
+2025-12-01 11:03:45,State,drowsy
+2025-12-01 11:03:46,State,attentive
+2025-12-01 11:03:47,State,attentive
+2025-12-01 11:03:48,State,attentive
+2025-12-01 11:03:49,State,attentive
+2025-12-01 11:03:50,Drowsy_Reset,Driver is attentive.
+2025-12-01 11:03:50,State,attentive
+2025-12-01 11:03:51,State,attentive
+2025-12-01 11:03:52,State,attentive
+2025-12-01 11:03:53,State,drowsy
+2025-12-01 11:03:54,State,attentive
+2025-12-01 11:03:55,State,attentive
+2025-12-01 11:03:56,State,attentive
+2025-12-01 11:03:57,State,attentive
+2025-12-01 11:03:59,State,attentive
+2025-12-01 11:04:00,State,drowsy
+2025-12-01 11:04:01,State,drowsy
+2025-12-01 11:04:02,State,drowsy
+2025-12-01 11:04:03,State,drowsy
+2025-12-01 11:04:04,State,attentive
+2025-12-01 11:04:05,State,attentive
+2025-12-01 11:04:06,State,attentive
+2025-12-01 11:04:07,State,attentive
+2025-12-01 11:04:08,State,attentive
+2025-12-01 11:04:09,State,attentive
+2025-12-01 11:04:10,State,drowsy
+2025-12-01 11:04:11,State,drowsy
+2025-12-01 11:04:12,State,drowsy
+2025-12-01 11:04:13,State,drowsy
+2025-12-01 11:04:14,State,drowsy
+2025-12-01 11:04:15,State,attentive
+2025-12-01 11:04:16,State,attentive
+2025-12-01 11:04:17,State,attentive
+2025-12-01 11:04:19,State,attentive
+2025-12-01 11:04:20,State,attentive
+2025-12-01 11:04:21,State,attentive
+2025-12-01 11:04:22,State,attentive
+2025-12-01 11:04:23,State,attentive
+2025-12-01 11:04:24,State,attentive
+2025-12-01 11:04:25,State,attentive
+2025-12-01 11:04:26,State,drowsy
+2025-12-01 11:04:27,State,attentive
+2025-12-01 11:04:28,State,drowsy
+2025-12-01 11:04:29,State,drowsy
+2025-12-01 11:04:30,State,attentive
+2025-12-01 11:04:32,State,attentive
+2025-12-01 11:04:33,State,attentive
+2025-12-01 11:04:34,State,attentive
+2025-12-01 11:04:35,State,attentive
+2025-12-01 11:04:36,State,attentive
+2025-12-01 11:04:37,State,attentive
+2025-12-01 11:04:38,State,attentive
+2025-12-01 11:04:39,State,attentive
+2025-12-01 11:04:40,State,attentive
+2025-12-01 11:04:41,State,attentive
+2025-12-01 11:04:42,State,attentive
+2025-12-01 11:04:43,Trip_End,System disengaged.

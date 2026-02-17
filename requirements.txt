@@ -1,0 +1,13 @@
+customtkinter
+opencv-python
+Pillow
+pandas
+matplotlib
+ultralytics
+pygame
+numpy
+sounddevice
+pyttsx3
+
+pywhatkit
+requests

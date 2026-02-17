@@ -1,0 +1,20 @@
+
+------------------------------
+     TRIP SAFETY REPORT
+------------------------------
+Total Drive Time: 1.16 minutes
+Final Driver Safety Score: 100/100
+
+--- Total Incidents Logged ---
+  - Yawn Warnings: 0
+  - Drowsy Warnings: 0
+
+Full event log saved to: D:\00_All_Projects\00_Active\01_Drowsiness\CustomKTinker\trip_safety_logs\Trip_Log_2026-01-08_17-00-55.csv
+------------------------------
+
+--- Full Event Log ---
+Timestamp,EventType,Details
+2026-01-08 17:02:02,Trip_Start,Detection started.
+2026-01-08 17:02:02,State,attentive
+2026-01-08 17:02:03,State,drowsy
+2026-01-08 17:02:05,Trip_End,System disengaged.

@@ -1,0 +1,101 @@
+
+------------------------------
+     TRIP SAFETY REPORT
+------------------------------
+Total Drive Time: 3.06 minutes
+Final Driver Safety Score: 85/100
+
+--- Total Incidents Logged ---
+  - Yawn Warnings: 1
+  - Drowsy Warnings: 1
+
+Full event log saved to: D:\00_All_Projects\00_Active\01_Drowsiness\CustomKTinker\trip_safety_logs\Trip_Log_2025-11-30_22-47-06.csv
+------------------------------
+
+--- Full Event Log ---
+Timestamp,EventType,Details
+2025-11-30 22:48:44,Trip_Start,Detection started.
+2025-11-30 22:48:45,State,attentive
+2025-11-30 22:48:46,State,drowsy
+2025-11-30 22:48:47,State,drowsy
+2025-11-30 22:48:48,State,drowsy
+2025-11-30 22:48:49,State,attentive
+2025-11-30 22:48:50,State,attentive
+2025-11-30 22:48:51,State,attentive
+2025-11-30 22:48:52,State,attentive
+2025-11-30 22:48:53,State,attentive
+2025-11-30 22:48:54,State,attentive
+2025-11-30 22:48:55,State,attentive
+2025-11-30 22:48:56,State,drowsy
+2025-11-30 22:48:58,State,attentive
+2025-11-30 22:48:59,State,drowsy
+2025-11-30 22:49:00,State,drowsy
+2025-11-30 22:49:01,State,drowsy
+2025-11-30 22:49:02,State,drowsy
+2025-11-30 22:49:03,State,drowsy
+2025-11-30 22:49:04,State,drowsy
+2025-11-30 22:49:04,Drowsy_Warning,Drowsy for 6s.
+2025-11-30 22:49:05,State,drowsy
+2025-11-30 22:49:06,State,drowsy
+2025-11-30 22:49:07,State,drowsy
+2025-11-30 22:49:08,State,drowsy
+2025-11-30 22:49:09,State,drowsy
+2025-11-30 22:49:10,State,drowsy
+2025-11-30 22:49:11,State,drowsy
+2025-11-30 22:49:12,State,drowsy
+2025-11-30 22:49:13,State,drowsy
+2025-11-30 22:49:14,State,attentive
+2025-11-30 22:49:15,State,attentive
+2025-11-30 22:49:16,State,attentive
+2025-11-30 22:49:18,State,attentive
+2025-11-30 22:49:19,State,attentive
+2025-11-30 22:49:20,State,attentive
+2025-11-30 22:49:21,State,attentive
+2025-11-30 22:49:22,State,attentive
+2025-11-30 22:49:23,State,attentive
+2025-11-30 22:49:24,State,attentive
+2025-11-30 22:49:25,State,attentive
+2025-11-30 22:49:25,Drowsy_Reset,Driver is attentive.
+2025-11-30 22:49:26,State,attentive
+2025-11-30 22:49:27,State,drowsy
+2025-11-30 22:49:28,State,drowsy
+2025-11-30 22:49:29,State,drowsy
+2025-11-30 22:49:30,State,drowsy
+2025-11-30 22:49:31,State,drowsy
+2025-11-30 22:49:33,State,drowsy
+2025-11-30 22:49:34,State,attentive
+2025-11-30 22:49:35,State,drowsy
+2025-11-30 22:49:36,State,attentive
+2025-11-30 22:49:37,State,attentive
+2025-11-30 22:49:38,State,attentive
+2025-11-30 22:49:39,State,drowsy
+2025-11-30 22:49:40,State,drowsy
+2025-11-30 22:49:41,State,drowsy
+2025-11-30 22:49:42,State,attentive
+2025-11-30 22:49:43,State,attentive
+2025-11-30 22:49:44,State,attentive
+2025-11-30 22:49:45,State,attentive
+2025-11-30 22:49:46,State,attentive
+2025-11-30 22:49:48,State,attentive
+2025-11-30 22:49:49,State,attentive
+2025-11-30 22:49:50,State,drowsy
+2025-11-30 22:49:51,State,drowsy
+2025-11-30 22:49:52,State,yawn
+2025-11-30 22:49:53,State,attentive
+2025-11-30 22:49:54,State,yawn
+2025-11-30 22:49:55,State,drowsy
+2025-11-30 22:49:56,State,drowsy
+2025-11-30 22:49:57,State,yawn
+2025-11-30 22:49:58,State,attentive
+2025-11-30 22:49:59,Yawn_Warning,5 yawns detected.
+2025-11-30 22:49:59,State,attentive
+2025-11-30 22:50:00,State,attentive
+2025-11-30 22:50:01,State,attentive
+2025-11-30 22:50:02,State,attentive
+2025-11-30 22:50:04,State,attentive
+2025-11-30 22:50:05,State,drowsy
+2025-11-30 22:50:06,State,attentive
+2025-11-30 22:50:07,State,attentive
+2025-11-30 22:50:08,State,attentive
+2025-11-30 22:50:09,State,attentive
+2025-11-30 22:50:10,Trip_End,System disengaged.

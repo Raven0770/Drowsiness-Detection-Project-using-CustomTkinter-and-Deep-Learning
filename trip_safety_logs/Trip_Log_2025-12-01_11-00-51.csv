@@ -1,0 +1,42 @@
+Timestamp,EventType,Details
+2025-12-01 11:23:33,Trip_Start,Detection started.
+2025-12-01 11:23:33,State,drowsy
+2025-12-01 11:23:34,State,attentive
+2025-12-01 11:23:35,State,drowsy
+2025-12-01 11:23:36,State,attentive
+2025-12-01 11:23:37,State,attentive
+2025-12-01 11:23:38,State,drowsy
+2025-12-01 11:23:40,State,drowsy
+2025-12-01 11:23:41,State,attentive
+2025-12-01 11:23:42,State,drowsy
+2025-12-01 11:23:43,State,drowsy
+2025-12-01 11:23:44,State,attentive
+2025-12-01 11:23:45,State,drowsy
+2025-12-01 11:23:46,State,drowsy
+2025-12-01 11:23:47,State,attentive
+2025-12-01 11:23:48,State,attentive
+2025-12-01 11:23:49,State,attentive
+2025-12-01 11:23:50,State,attentive
+2025-12-01 11:23:51,State,attentive
+2025-12-01 11:23:52,State,drowsy
+2025-12-01 11:23:53,State,attentive
+2025-12-01 11:23:54,State,attentive
+2025-12-01 11:23:55,State,attentive
+2025-12-01 11:23:56,State,attentive
+2025-12-01 11:23:57,State,attentive
+2025-12-01 11:23:58,State,attentive
+2025-12-01 11:23:59,State,drowsy
+2025-12-01 11:24:00,State,attentive
+2025-12-01 11:24:01,State,attentive
+2025-12-01 11:24:02,State,yawn
+2025-12-01 11:24:03,State,yawn
+2025-12-01 11:24:04,State,drowsy
+2025-12-01 11:24:05,State,yawn
+2025-12-01 11:24:07,State,attentive
+2025-12-01 11:24:08,State,drowsy
+2025-12-01 11:24:09,State,drowsy
+2025-12-01 11:24:10,State,drowsy
+2025-12-01 11:24:11,State,drowsy
+2025-12-01 11:24:12,State,attentive
+2025-12-01 11:24:13,State,attentive
+2025-12-01 11:24:13,Yawn_Warning,5 yawns detected.

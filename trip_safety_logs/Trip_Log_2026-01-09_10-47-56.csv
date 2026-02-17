@@ -1,0 +1,56 @@
+Timestamp,EventType,Details
+2026-01-09 10:48:57,Trip_Start,Detection started.
+2026-01-09 10:48:58,State,drowsy
+2026-01-09 10:48:59,State,drowsy
+2026-01-09 10:49:00,State,drowsy
+2026-01-09 10:49:01,State,attentive
+2026-01-09 10:49:02,State,attentive
+2026-01-09 10:49:03,State,drowsy
+2026-01-09 10:49:04,State,drowsy
+2026-01-09 10:49:05,State,drowsy
+2026-01-09 10:49:06,State,drowsy
+2026-01-09 10:49:07,State,drowsy
+2026-01-09 10:49:08,Drowsy_Warning,Drowsy for 6s.
+2026-01-09 10:49:08,State,drowsy
+2026-01-09 10:49:09,State,drowsy
+2026-01-09 10:49:10,State,drowsy
+2026-01-09 10:49:11,State,drowsy
+2026-01-09 10:49:13,State,drowsy
+2026-01-09 10:49:14,State,attentive
+2026-01-09 10:49:15,State,attentive
+2026-01-09 10:49:16,State,attentive
+2026-01-09 10:49:17,State,attentive
+2026-01-09 10:49:18,State,attentive
+2026-01-09 10:49:19,State,attentive
+2026-01-09 10:49:20,State,drowsy
+2026-01-09 10:49:21,State,attentive
+2026-01-09 10:49:23,State,attentive
+2026-01-09 10:49:24,State,attentive
+2026-01-09 10:49:25,State,drowsy
+2026-01-09 10:49:26,State,drowsy
+2026-01-09 10:49:27,State,yawn
+2026-01-09 10:49:28,State,yawn
+2026-01-09 10:49:28,Drowsy_Reset,Driver is attentive.
+2026-01-09 10:49:29,State,yawn
+2026-01-09 10:49:30,State,drowsy
+2026-01-09 10:49:31,State,yawn
+2026-01-09 10:49:32,State,yawn
+2026-01-09 10:49:33,State,drowsy
+2026-01-09 10:49:34,State,drowsy
+2026-01-09 10:49:35,State,drowsy
+2026-01-09 10:49:36,Yawn_Warning,5 yawns detected.
+2026-01-09 10:49:36,State,drowsy
+2026-01-09 10:49:37,State,attentive
+2026-01-09 10:49:38,State,attentive
+2026-01-09 10:49:39,State,attentive
+2026-01-09 10:49:40,State,attentive
+2026-01-09 10:49:42,State,attentive
+2026-01-09 10:49:43,State,attentive
+2026-01-09 10:49:44,State,attentive
+2026-01-09 10:49:45,State,attentive
+2026-01-09 10:49:46,State,attentive
+2026-01-09 10:49:47,State,drowsy
+2026-01-09 10:49:48,State,attentive
+2026-01-09 10:49:49,State,attentive
+2026-01-09 10:49:50,State,attentive
+2026-01-09 10:49:51,State,drowsy

@@ -1,0 +1,69 @@
+
+------------------------------
+     TRIP SAFETY REPORT
+------------------------------
+Total Drive Time: 1.00 minutes
+Final Driver Safety Score: 85/100
+
+--- Total Incidents Logged ---
+  - Yawn Warnings: 1
+  - Drowsy Warnings: 1
+
+Full event log saved to: D:\00_All_Projects\00_Active\01_Drowsiness\CustomKTinker\trip_safety_logs\Trip_Log_2025-11-27_22-45-34.csv
+------------------------------
+
+--- Full Event Log ---
+Timestamp,EventType,Details
+2025-11-27 22:45:42,Trip_Start,Detection started.
+2025-11-27 22:45:43,State,drowsy
+2025-11-27 22:45:44,State,attentive
+2025-11-27 22:45:45,State,attentive
+2025-11-27 22:45:46,State,drowsy
+2025-11-27 22:45:47,State,attentive
+2025-11-27 22:45:48,State,attentive
+2025-11-27 22:45:49,State,drowsy
+2025-11-27 22:45:50,State,attentive
+2025-11-27 22:45:52,State,attentive
+2025-11-27 22:45:53,State,drowsy
+2025-11-27 22:45:54,State,attentive
+2025-11-27 22:45:55,State,attentive
+2025-11-27 22:45:56,State,drowsy
+2025-11-27 22:45:57,State,drowsy
+2025-11-27 22:45:58,State,drowsy
+2025-11-27 22:45:59,State,drowsy
+2025-11-27 22:46:00,State,drowsy
+2025-11-27 22:46:01,State,drowsy
+2025-11-27 22:46:01,Drowsy_Warning,Drowsy for 6s.
+2025-11-27 22:46:02,State,drowsy
+2025-11-27 22:46:03,State,drowsy
+2025-11-27 22:46:04,State,drowsy
+2025-11-27 22:46:05,State,attentive
+2025-11-27 22:46:06,State,attentive
+2025-11-27 22:46:07,Drowsy_Reset,Driver is attentive.
+2025-11-27 22:46:07,State,attentive
+2025-11-27 22:46:09,State,attentive
+2025-11-27 22:46:10,State,drowsy
+2025-11-27 22:46:11,State,drowsy
+2025-11-27 22:46:12,State,drowsy
+2025-11-27 22:46:13,State,attentive
+2025-11-27 22:46:14,State,attentive
+2025-11-27 22:46:15,State,yawn
+2025-11-27 22:46:16,State,drowsy
+2025-11-27 22:46:17,State,drowsy
+2025-11-27 22:46:18,State,drowsy
+2025-11-27 22:46:19,State,yawn
+2025-11-27 22:46:20,State,yawn
+2025-11-27 22:46:21,State,drowsy
+2025-11-27 22:46:22,Yawn_Warning,5 yawns detected.
+2025-11-27 22:46:22,State,drowsy
+2025-11-27 22:46:23,State,attentive
+2025-11-27 22:46:25,State,drowsy
+2025-11-27 22:46:26,State,attentive
+2025-11-27 22:46:27,State,attentive
+2025-11-27 22:46:28,State,drowsy
+2025-11-27 22:46:29,State,attentive
+2025-11-27 22:46:30,State,attentive
+2025-11-27 22:46:31,State,drowsy
+2025-11-27 22:46:32,State,attentive
+2025-11-27 22:46:33,State,attentive
+2025-11-27 22:46:34,Trip_End,System disengaged.

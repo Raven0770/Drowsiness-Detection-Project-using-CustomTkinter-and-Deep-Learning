@@ -242,15 +242,15 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 THANU PRASAD. D
-GitHub: [@Raven0770](https://github.com/Raven0770)
+ - GitHub: [@Raven0770](https://github.com/Raven0770)
 
 S. SUVEETHA
-GitHub: [@suvii-15](https://github.com/suvii-15)
+ - GitHub: [@suvii-15](https://github.com/suvii-15)
 
 S. PRIYA DARSHINI
-GitHub: [@Raven0770](https://github.com/Raven0770)
+ - GitHub: [@](https://github.com/)
 
 SRUSHTI LAKKAPLA
-GitHub: [@Raven0770](https://github.com/Raven0770)
+ - GitHub: [@](https://github.com/)
 
 ---
